@@ -2,7 +2,7 @@
    Week 3: we write this together, rule by rule. */
 
 body {
-  background-color: #fff8f0;
+  background-color: #ffffff;
   color: #1a1a1a;
   font-family: "Inter", Arial, sans-serif;
   font-size: 1rem;
@@ -37,4 +37,21 @@ header h1 {
 nav a {
   color: #1a1a1a;
   text-decoration: none;
+}
+
+.dish {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border: 1px solid #ece3d4;
+  border-radius: 18px;
+  margin-bottom: 1.5rem;
+}
+
+.dish img {
+  border-radius: 10px;
+}
+
+.dish strong {
+  font-size: 1.1rem;
+  color: #c0392b;
 }
