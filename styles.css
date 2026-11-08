@@ -1,2 +1,40 @@
 /* Mama's Kitchen: styles for every page.
    Week 3: we write this together, rule by rule. */
+
+body {
+  background-color: #fff8f0;
+  color: #1a1a1a;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Inter", Arial, sans-serif;
+}
+
+.eyebrow {
+  color: #c0392b;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.btn {
+  background-color: #c0392b;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+header h1 {
+  color: #c0392b;
+}
+
+nav a {
+  color: #1a1a1a;
+  text-decoration: none;
+}
